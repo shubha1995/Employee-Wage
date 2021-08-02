@@ -1,0 +1,1 @@
+console.log("Welcome To Employee Wage Program");
